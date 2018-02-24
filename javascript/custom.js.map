@@ -1,0 +1,1 @@
+{"version":3,"sources":["javascript/custom.js"],"names":["console","log"],"mappings":"aAAAA,QAAQC,IAAI","file":"custom.js","sourcesContent":["console.log('Hello')\n"]}
