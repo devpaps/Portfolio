@@ -1,2 +1,2 @@
-"use strict";console.log("Hello"),window.onscroll=function(o){console.log(window.scrollY)};
+"use strict";
 //# sourceMappingURL=custom.js.map

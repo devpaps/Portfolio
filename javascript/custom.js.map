@@ -1,1 +1,1 @@
-{"version":3,"sources":["javascript/custom.js"],"names":["console","log","e","window","scrollY"],"mappings":"aAAAA,QAAQC,IAAI,SAAZD,OAAAA,SAAY,SAAZE,GAGEF,QAAQC,IAAIE,OAAOC","file":"custom.js","sourcesContent":["console.log('Hello');\n\nwindow.onscroll = function (e) {\n  console.log(window.scrollY); // Value of scroll Y in px\n};"]}
+{"version":3,"sources":["javascript/custom.js"],"names":[],"mappings":"AAAA","file":"custom.js","sourcesContent":["\"use strict\";"]}
